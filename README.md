@@ -5,3 +5,9 @@ Most of the code were inspired from https://github.com/codegiovanni/3D_ASCII_Ear
 
 this project is to convert 2d emoji image into a 3D ASCII rotating image
 
+Converting From:
+<img src="Funny-Emoji-Spinning-HaHa/2d funny emoji .png">
+
+To 
+<img src="Funny-Emoji-Spinning-HaHa/funny 3d emoji haha.gif">
+
